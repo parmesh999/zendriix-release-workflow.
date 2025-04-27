@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 
+# This is the code from the develop branch
+
+def login():
+
+print("Login logic for develop branch")
+
+# This is the code from the feature/login-page branch
+
+def login():
+
+print("Login logic for feature/
+
+login-page branch")
+
+>>>>>>> feature/login-page
